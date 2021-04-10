@@ -2,8 +2,8 @@
 
 #define H_CONFIG
 
-// #define MODE_LEE
-#define MODE_ROSE
+#define MODE_LEE
+// #define MODE_ROSE
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 32 // OLED display height, in pixels
